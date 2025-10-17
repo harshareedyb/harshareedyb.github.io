@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Harsha Vardhan Reddy Bandi | Java Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Harsha Vardhan Reddy Bandi</h1>
+    <p>Java Developer | Spring Boot | REST APIs | Kafka</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about" class="card">
+    <h2>About Me</h2>
+    <p>
+      I'm Harsha Vardhan Reddy Bandi, a passionate Java Developer with hands-on experience at
+      Genesys Info X, specializing in Spring Boot, REST APIs, and JWT authentication.
+      I enjoy building scalable backend systems and learning new technologies.
+    </p>
+  </section>
+
+  <section id="skills" class="card">
+    <h2>Technical Skills</h2>
+    <ul class="skills">
+      <li>Java</li>
+      <li>Spring Boot</li>
+      <li>PostgreSQL</li>
+      <li>Kafka</li>
+      <li>JWT Authentication</li>
+      <li>RESTful APIs</li>
+      <li>Microservices</li>
+      <li>Docker</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="card">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>MetaGen Terminal</h3>
+      <p>
+        A trading platform built with Java (Spring Boot, Quarkus), Kafka, RabbitMQ, React.js, and PostgreSQL.
+        Includes JWT authentication, gRPC, WebSockets, and real-time streaming.
+      </p>
+    </div>
+    <div class="project">
+      <h3>JWT Authentication System</h3>
+      <p>
+        A secure user authentication system with role-based access using Spring Boot, JWT, and PostgreSQL.
+      </p>
+    </div>
+  </section>
+
+  <section id="contact" class="card">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:bandiharsha2002@gmail.com">bandiharsha2002@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/harshareedyb" target="_blank">github.com/harshareedyb</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/bandiharshavardhanreddy2002" target="_blank">
+      linkedin.com/in/bandiharshavardhanreddy2002
+    </a></p>
+    <a class="btn" href="harshaupdatedresume.pdf" download>Download Resume</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Harsha Vardhan Reddy Bandi | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
